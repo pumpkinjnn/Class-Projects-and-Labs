@@ -2,10 +2,10 @@
 
 ## CSC 207 Object-Oriented Programming and Data Structure
 
-# The sound of sorting
+# The sound of sorting （SortingVisualizer 文件夹）
 In folder SortingVisualizer
 
-# Block Chain
+# Block Chain (block-chain 文件夹)
 ## Introduction
 Blockchains, as a distributed data structure, require careful coordination between the participating computers on the network. As this is not a distributed systems course, we will not address these issues directly. However, the blockchain itself is simply a list with a bit of extra information to ensures its integrity. In this homework, we will develop a blockchain data structure that will allow us to understand the essential operations that blockchain-based application perform.
 

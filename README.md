@@ -3,7 +3,7 @@
 ## CSC 207 Object-Oriented Programming and Data Structure
 
 # The sound of sorting
-https://github.com/pumpkinjnn/the-sounds-of-sorting
+In folder SortingVisualizer
 
 # Learning Genie
 https://github.com/grinnell-csc207-01-17fa/learning-genie
